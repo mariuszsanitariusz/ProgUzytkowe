@@ -1,4 +1,4 @@
-# Heading 1 ProgUzytkowe
+#  1 ProgUzytkowe
 Mariusz Raś
-## Heading 2 zajęcia 
+##  2 zajęcia 
 Uczę się tutaj korzystać z GIT'a.
